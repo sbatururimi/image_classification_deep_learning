@@ -57,3 +57,7 @@ Alternatively, If you already stoped the experiment, you can still download the 
 (where ID is the "RUN ID" displayed in the terminal when you run the project; if you lost it you can also find it in the ["Experiments" section on floyd.com](https://www.floydhub.com/experiments))
     
 Just run the command above, download `dlnd_image_classification.ipynb` and replace your local version with the newly downloaded one.
+
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sbatururimi/image_classification_deep_learning/blob/master/LICENSE)
