@@ -1,5 +1,5 @@
 # Description
-A project to lassify images from the CIFAR-10 dataset. The dataset consists of airplanes, dogs, cats, and other objects. The dataset will need to be preprocessed first, then a convolutional neural network is trained on all the samples. The following  steps were applied:
+A project to lassify images from the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset. The dataset consists of airplanes, dogs, cats, and other objects. The dataset will need to be preprocessed first, then a convolutional neural network is trained on all the samples. The following  steps were applied:
 - normalization of  images
 - one-hot encoding the labels
 - building a convolutional layer with max pool layer and a fully connected layer. At then end, we see their predictions on the sample images.
