@@ -6,6 +6,9 @@ A project to lassify images from the [CIFAR-10](https://www.cs.toronto.edu/~kriz
 
 Also this project will run on a machine with GPU using floydhub.com.
 
+## Take a look
+You can open the jupyter notebook directly in github [Image Classification](https://github.com/sbatururimi/image_classification_deep_learning/blob/master/dlnd_image_classification.ipynb)
+
 ## Running the image classification project on floydhub.com
 
 1. Create an account on [floydhub.com](https://www.floydhub.com) (don't forget to confirm your email). You will automatically receive 100 free GPU hours. 
